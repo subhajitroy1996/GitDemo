@@ -12,6 +12,6 @@ public class pracTestNG {
 	@Test
 	public void bye()
 	{
-		System.out.println("Bye");
+		System.out.println("Bye Here");
 	}
 }
