@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="207" started-at="2022-08-24T23:33:09 IST" finished-at="2022-08-24T23:33:09 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="207" started-at="2022-08-24T23:33:09 IST" finished-at="2022-08-24T23:33:09 IST">
+      <class name="practisewithMaven.pracTestNG">
+        <test-method status="PASS" signature="bye()[pri:0, instance:practisewithMaven.pracTestNG@74174a23]" name="bye" duration-ms="34" started-at="2022-08-24T23:33:09 IST" finished-at="2022-08-24T23:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bye -->
+        <test-method status="PASS" signature="out()[pri:0, instance:practisewithMaven.pracTestNG@74174a23]" name="out" duration-ms="5" started-at="2022-08-24T23:33:09 IST" finished-at="2022-08-24T23:33:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- out -->
+      </class> <!-- practisewithMaven.pracTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
