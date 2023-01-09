@@ -14,4 +14,9 @@ public class pracTestNG {
 	{
 		System.out.println("Bye from here");
 	}
+	@Test
+	public void check()
+	{
+		System.out.println("check");
+	}
 }
