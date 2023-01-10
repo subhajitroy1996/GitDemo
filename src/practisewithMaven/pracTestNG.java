@@ -18,5 +18,6 @@ public class pracTestNG {
 	public void check()
 	{
 		System.out.println("check");
+		System.out.println("done with changes");
 	}
 }
